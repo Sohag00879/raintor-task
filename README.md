@@ -41,8 +41,10 @@ This is a modern, responsive, and accessible **developer portfolio website** bui
 ## 🧪 Local Setup
 
 Clone the repository and run the development server:
+
 ``bash
-git clone https://github.com/your-username/your-portfolio.git
+
+git clone https://github.com/Sohag00879/raintor-task.git
 cd your-portfolio
 npm install
 npm run dev
