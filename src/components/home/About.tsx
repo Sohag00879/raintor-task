@@ -1,5 +1,4 @@
 'use client'
-import { Button } from "@/components/ui/button"
 import Image from "next/image"
 import im from '../../assets/Vector (4).png'
 import right from '../../assets/div (1).png'
@@ -11,9 +10,6 @@ export default function About() {
             <div className="absolute inset-0 z-0">
                 <Image src={im} alt="About Background" fill className="object-cover" />
             </div>
-
-
-
 
             <div className="relative z-10 text-black">
                 <div className="flex items-center justify-end my-14">
