@@ -33,6 +33,7 @@ This is a modern, responsive, and accessible **developer portfolio website** bui
 - [Next.js] – React Framework
 - [Tailwind CSS] – Utility-first CSS framework
 - [React Icons] – Icon library
+- [Typescript] – Reduce code type error
 - [Next/Image] – Optimized image loading
 
 ---
