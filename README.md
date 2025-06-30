@@ -45,8 +45,11 @@ Clone the repository and run the development server:
 ``bash
 
 git clone https://github.com/Sohag00879/raintor-task.git
+
 cd your-portfolio
+
 npm install
+
 npm run dev
 
 Visit http://localhost:3000 in your browser.
