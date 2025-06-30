@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio – Built with Next.js & Tailwind CSS
+# 💼 Developer Portfolio – Built with Next.js, Typescript & Tailwind CSS
 
 This is a modern, responsive, and accessible **developer portfolio website** built using **Next.js**, **Tailwind CSS**, **React** and **Typescript**.It includes all essential sections like Hero, Skills, About, Work Process, Contact, and Footer — tailored to showcase your professional presence on the web.
 
